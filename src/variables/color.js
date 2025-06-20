@@ -1,4 +1,5 @@
 const COLOR = {
+  WHITE: "#FFFFFF",
   BLACK: "#232324",
   LIGHT_BLACK: "#2B2A2E",
   DEEP_BLUE_GRAY: "#2F3136",
